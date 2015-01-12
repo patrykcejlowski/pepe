@@ -1,2 +1,3 @@
 # pepe
-Moje pierwsze repozytorium na githubie
+Moje pierwsze repozytorium na githubie.
+Jestem Patryk Cejlowski.
